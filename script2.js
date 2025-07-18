@@ -6,7 +6,7 @@ document.addEventListener("DOMContentLoaded", () => {
     const commands = {
       help: `
     Available commands:
-      about        - About Garvit Haswani
+      about        - About Aditya Singh 
       projects     - View my projects
       socials      - My social accounts
       themes       - Switch themes
@@ -15,16 +15,16 @@ document.addEventListener("DOMContentLoaded", () => {
       clear        - Clear the terminal
       `,
       about: `
-    Hi, my name is Garvit Haswani.
-    I'm a Student living in Kanpur, Uttar Pradesh.
+    Hi, my name is Aditya Singh .
+    I'm a Student living in Lucknow, Uttar Pradesh.
     I am passionate about writing codes and developing web applications.
       `,
       socials: `
     Connect with me:
-      GitHub: https://github.com/cybobug
-      LinkedIn: https://www.linkedin.com/in/garvit-haswani-6850ba29b/
-      Twitter: https://x.com/GarvitHaswani
-      Medium: https://medium.com/@garvithaswani28
+      GitHub:https://github.com/AdityaSingh-VIT
+      LinkedIn: https://www.linkedin.com/in/aditya-singh-b89aba308/
+
+      
       `,
       projects: `
     My projects:
